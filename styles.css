@@ -1,5 +1,5 @@
 body {
-    background-color: #fffbf7;
+    background-color: lightgoldenrodyellow;
 }
 
 h1 {
@@ -8,14 +8,14 @@ h1 {
 }
 
 p {
-    color: #8b8b8bcc;
+    color: #e28138cc;
     font-family: verdana;
     font-size: 20px;
 }
 
 button {
     color: #fff;
-    background-color: #025157;
+    background-color: #2dd87d;
 }
 
 .header {
